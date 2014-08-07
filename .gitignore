@@ -1,0 +1,10 @@
+src/main/webapp/WEB-INF/classes
+.history
+.classpath
+.project
+.settings
+ target/*
+*.jar
+*.class
+bin/*
+bin
